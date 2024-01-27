@@ -46,12 +46,14 @@ By analyzing this extensive dataset, it becomes possible to gain valuable insigh
 
 **Datasets:** https://shorturl.at/zIVX7
 
-[customers.csv](https://drive.google.com/drive/folders/1TGEc66YKbD443nslRi1bWgVd238gJCnb)   [geolocation.csv](https://drive.google.com/drive/folders/1TGEc66YKbD443nslRi1bWgVd238gJCnb) 
-[order_items.csv](https://drive.google.com/drive/folders/1TGEc66YKbD443nslRi1bWgVd238gJCnb) [order_reviews.csv](https://drive.google.com/drive/folders/1TGEc66YKbD443nslRi1bWgVd238gJCnb)
-[orders.csv]
-[payments.csv]
-[products.csv]
-[sellers.csv]
+[customers.csv](https://drive.google.com/drive/folders/1TGEc66YKbD443nslRi1bWgVd238gJCnb)   
+[geolocation.csv](https://drive.google.com/drive/folders/1TGEc66YKbD443nslRi1bWgVd238gJCnb) 
+[order_items.csv](https://drive.google.com/drive/folders/1TGEc66YKbD443nslRi1bWgVd238gJCnb) 
+[order_reviews.csv](https://drive.google.com/drive/folders/1TGEc66YKbD443nslRi1bWgVd238gJCnb)
+[orders.csv](https://drive.google.com/drive/folders/1TGEc66YKbD443nslRi1bWgVd238gJCnb)
+[payments.csv](https://drive.google.com/drive/folders/1TGEc66YKbD443nslRi1bWgVd238gJCnb)
+[products.csv](https://drive.google.com/drive/folders/1TGEc66YKbD443nslRi1bWgVd238gJCnb)
+[sellers.csv](https://drive.google.com/drive/folders/1TGEc66YKbD443nslRi1bWgVd238gJCnb)
 
 **Skills:** SQL
 
