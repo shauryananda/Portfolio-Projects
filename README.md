@@ -44,7 +44,14 @@ This particular business case focuses on the operations of a retailer in Brazil 
 
 By analyzing this extensive dataset, it becomes possible to gain valuable insights into the retailer's operations in Brazil. The information can shed light on various aspects of the business, such as order processing, pricing strategies, payment and shipping efficiency, customer demographics, product characteristics, and customer satisfaction levels.
 
-**Datasets:** https://drive.google.com/drive/folders/1TGEc66YKbD443nslRi1bWgVd238gJCnb 
+**Datasets:** https://shorturl.at/zIVX7
+
+[customers.csv](https://drive.google.com/drive/folders/1TGEc66YKbD443nslRi1bWgVd238gJCnb)   [geolocation.csv](https://drive.google.com/drive/folders/1TGEc66YKbD443nslRi1bWgVd238gJCnb) 
+[order_items.csv](https://drive.google.com/drive/folders/1TGEc66YKbD443nslRi1bWgVd238gJCnb) [order_reviews.csv](https://drive.google.com/drive/folders/1TGEc66YKbD443nslRi1bWgVd238gJCnb)
+[orders.csv]
+[payments.csv]
+[products.csv]
+[sellers.csv]
 
 **Skills:** SQL
 
