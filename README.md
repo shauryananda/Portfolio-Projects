@@ -28,3 +28,9 @@ What factors affected it the most?
 [housing_in_london_yearly_variables](https://github.com/shauryananda/Portfolio-Projects/blob/main/Data%20Exploration%20and%20Visualisation/housing_in_london_yearly_variables.csv)
 
 **Skills:** Exploratory Data Analysis, Data Cleaning, Data Visualization.
+
+
+## SQL
+
+### Operational Analysis for a Retailer in the United States
+
