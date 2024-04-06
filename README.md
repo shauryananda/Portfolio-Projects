@@ -64,3 +64,7 @@ By analyzing this extensive dataset, it becomes possible to gain valuable insigh
 
 **Skills:** SQL
 
+### Instagram User Analytics
+
+**Introduction**:
+
