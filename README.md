@@ -116,5 +116,82 @@ Task: Identify users (potential bots) who have liked every single photo on the s
 
 **Skill:** SQL
 
+### Operations & Metric Analytics
 
+**Introduction**:
+
+**Business Problem:** [Operations & Metric Analytics](https://github.com/shauryananda/Portfolio-Projects/blob/main/SQL/Operations%20And%20Metric%20Analytics.pdf)
+
+Operational Analytics is a crucial process that involves analyzing a company's end-to-end operations. This analysis helps identify areas for improvement within the company. As a Data Analyst, you'll work closely with various teams, such as operations, support, and marketing, helping them derive valuable insights from the data they collect.
+
+One of the key aspects of Operational Analytics is investigating metric spikes. This involves understanding and explaining sudden changes in key metrics, such as a dip in daily user engagement or a drop in sales. As a Data Analyst, you'll need to answer these questions daily, making it crucial to understand how to investigate these metric spikes.
+
+In this project, my goal is to use advanced SQL skills to analyze the data and provide valuable insights that can help improve the company's operations and understand sudden changes in key metrics.
+
+**SQL Queries:** 
+
+[Operations Analytics](https://github.com/shauryananda/Portfolio-Projects/blob/main/SQL/Operation_Analytics_Queries.sql)  [Investigating Metric Spikes](https://github.com/shauryananda/Portfolio-Projects/blob/main/SQL/Investigating_Metric_Spikes_Queries.sql)
+
+**SQL Tasks:**
+
+**Case Study 1: Job Data Analysis**
+
+**Jobs Reviewed Over Time:**
+
+   **Objective:** Calculate the number of jobs reviewed per hour for each day in November 2020.
+   
+   **Task:** Write an SQL query to calculate the number of jobs reviewed per hour for each day in November 2020.
+
+**Throughput Analysis:**
+
+   **Objective:** Calculate the 7-day rolling average of throughput (number of events per second).
+   
+   **Task:** Write an SQL query to calculate the 7-day rolling average of throughput. Additionally, explain whether you prefer using the daily metric or the 7-day rolling average for 
+   throughput, and why.
+   
+**Language Share Analysis:**
+
+   **Objective:** Calculate the percentage share of each language in the last 30 days.
+   
+   **Task:** Write an SQL query to calculate the percentage share of each language over the last 30 days.
+
+**Duplicate Rows Detection:**
+
+   **Objective:** Identify duplicate rows in the data.
+   
+   **Task:** Write an SQL query to display duplicate rows from the job_data table.
+
+**Case Study 2: Investigating Metric Spike**
+
+**Weekly User Engagement:**
+
+   **Objective:** Measure the activeness of users on a weekly basis.
+   
+   **Task:** Write an SQL query to calculate the weekly user engagement.
+
+**User Growth Analysis**
+
+   **Objective:** Analyze the growth of users over time for a product.
+
+   **Task:** Write an SQL query to calculate the user growth for the product.
+
+**Weekly Retention Analysis:**
+
+   **Objective:** Analyze the retention of users on a weekly basis after signing up for a product.
+
+   **Task:** Write an SQL query to calculate the weekly retention of users based on their sign-up cohort.
+
+**Weekly Engagement Per Device:**
+
+   **Objective:** Measure the activeness of users on a weekly basis per device.
+
+   **Task:** Write an SQL query to calculate the weekly engagement per device.
+
+**Email Engagement Analysis:**
+
+   **Objective:** Analyze how users are engaging with the email service.
+
+   **Task:** Write an SQL query to calculate the email engagement metrics.
+
+**Skill:** SQL
 
