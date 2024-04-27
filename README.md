@@ -32,9 +32,9 @@ What factors affected it the most?
 
 ## SQL
 
-### Operational Analysis for a Retailer in the United States
+### Retailer Sales and Operational Analytics
 
-**Introduction**: [Operational Analysis for a Retailer in the United States](https://github.com/shauryananda/Portfolio-Projects/blob/main/SQL/Target%20-%20Business%20Case.pdf)
+**Introduction**: [Retailer Sales and Operational Analytics](https://github.com/shauryananda/Portfolio-Projects/blob/main/SQL/Target%20-%20Business%20Case.pdf)
 
 **Business Problem:** Perform Analysis on the Sales and Operations for a Retailer in the United States:
 
