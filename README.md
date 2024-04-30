@@ -1,6 +1,6 @@
 # Portfolio-Projects
 
-## Data Exploration and Data Visualization
+## Exploratory Data Analysis and Visualization
 
 ### Content Analysis on a Video Streaming Platform
 **Code:** [`Content Analysis on a Video Streaming Platform`](https://github.com/shauryananda/Portfolio-Projects/blob/main/Data%20Exploration%20and%20Visualisation/Content%20Analysis%20on%20a%20Video%20Streaming%20Platform.ipynb)
