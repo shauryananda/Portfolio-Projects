@@ -197,6 +197,8 @@ In this project, my goal is to use advanced SQL skills to analyze the data and p
 
 **Skill:** SQL
 
+## Excel
+
 ### Hiring Process Analytics
 
 **Introduction**:
